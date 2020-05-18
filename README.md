@@ -72,7 +72,7 @@ plt.legend()
 
 
 
-![png](output_6_1.png)
+![png](figures/output_6_1.png)
 
 
 
